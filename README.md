@@ -1,7 +1,9 @@
 # cse110_Lab
 
 [![License Badge](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Compatibility](https://img.shields.io/badge/python-3-brightgreen.svg)](PROJECT)
+[![Compatibility](https://img.shields.io/badge/python-3-brightgreen.svg)](cse110)
+[![Modified](https://img.shields.io/endpoint?label=Coverage&logo=cse110&logoColor=orange)](cse110)
+
 
 ```Cse110 (Introduction to computer programming) basic things lab assignments all codes```
 
