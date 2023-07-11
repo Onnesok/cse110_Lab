@@ -3,6 +3,7 @@
 [![License Badge](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Compatibility](https://img.shields.io/badge/python-3-brightgreen.svg)](cse110)
 [![Modified](https://img.shields.io/badge/Coverage-full-orange)](cse110)
+[![Hits](https://hits.sh/github.com/Onnesok/cse110_Lab.svg)](https://hits.sh/github.com/Onnesok/cse110_Lab/)
 
 
 ```Cse110 (Introduction to computer programming) basic things lab assignments all codes```
